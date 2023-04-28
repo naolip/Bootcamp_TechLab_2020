@@ -1,6 +1,7 @@
 ## SafePlace 
 
 ###### by CyberTech
+###### Bootcamp de desenvolvimento de Software do Inteli - Instituto de Tecnologia e Liderança, de Setembro a Novembro de 2020. Ao todo foram 11 semanas, 56 aulas, 336 horas de dedicação e 6 professores. Trabalhei em grupos de 6 alunos para desenvolver uma solução de controle de aglomeração em espaços de trabalho compartilhados através da inteligência artificial - um projeto open source e encomendado pela empresa Exame junto ao banco BTG Pactual.
 
 #### Uma solução Open Source criada no bootcamp desenvolvimento TechLab 
 
