@@ -1,0 +1,5 @@
+sqlalchemy
+tornado
+pymysql
+cryptography
+opencv-contrib-python
